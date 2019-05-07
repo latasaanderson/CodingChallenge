@@ -1,0 +1,17 @@
+{
+  "name": "code_challenge",
+  "version": "1.0.0",
+  "description": "mobile device keyboard",
+  "main": "AutocompleteTest.js",
+  "dependencies": {
+    "fastpriorityqueue": "^0.6.1",
+    "readline-sync": "^1.4.9",
+    "trie-search": "^1.2.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Latasa Roland",
+  "license": "ISC"
+}
